@@ -1,0 +1,32 @@
+body {
+  font-family: sans-serif;
+}
+html,
+body {
+  height: 100%;
+  margin: 0;
+}
+#container1 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+}
+#container2 {
+  height: 3rem;
+  width: 3rem;
+  border-radius: 50%;
+  background-color: #4D4C7D;
+  border: 1px solid #4D4C7D;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+img {
+  width: 1.4rem;
+}
+p {
+  position: relative;
+  left: 1rem;
+}
