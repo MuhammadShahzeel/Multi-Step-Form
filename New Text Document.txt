@@ -1,6 +1,0 @@
-max width:
-
-479 px --> small 
-767 px --> medium 
-991px --> large
-
